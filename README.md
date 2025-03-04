@@ -22,7 +22,7 @@ IA-Bullying-Detection/
 │── requirements.txt # 📄 Dependencias
 │── README.md        # 📄 Descripción del proyecto
 
-```plaintext
+plaintext```
 
 🚀 Instalación y Configuración
 1️⃣ Clonar el repositorio
